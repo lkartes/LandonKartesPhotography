@@ -1,0 +1,59 @@
+{
+  "name": "jsonlylightbox",
+  "version": "0.5.5",
+  "description": "Small responsive vanilla JS lightbox for displaying images.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixhagspiel/jsOnlyLightbox.git"
+  },
+  "keywords": [
+    "lightbox",
+    "vanilla",
+    "ie8",
+    "responsive",
+    "gallery",
+    "small",
+    "lightweight",
+    "js only",
+    "no jquery",
+    "javascript"
+  ],
+  "author": {
+    "name": "Felix Hagspiel"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/felixhagspiel/jsOnlyLightbox/blob/master/License.txt"
+  },
+  "bugs": {
+    "url": "https://github.com/felixhagspiel/jsOnlyLightbox/issues"
+  },
+  "homepage": "http://jslightbox.felixhagspiel.de/",
+  "gitHead": "95d075a4a629dc984bfd75c1034668b681479759",
+  "_id": "jsonlylightbox@0.5.5",
+  "scripts": {},
+  "_shasum": "30b8aecc960dc14e21cc8d7bb6efd627b3cda1b3",
+  "_from": "jsonlylightbox@latest",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "7.2.1",
+  "_npmUser": {
+    "name": "felixhagspiel",
+    "email": "info@felixhagspiel.de"
+  },
+  "dist": {
+    "shasum": "30b8aecc960dc14e21cc8d7bb6efd627b3cda1b3",
+    "tarball": "https://registry.npmjs.org/jsonlylightbox/-/jsonlylightbox-0.5.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "felixhagspiel",
+      "email": "info@felixhagspiel.de"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/jsonlylightbox-0.5.5.tgz_1483969576367_0.397126252297312"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jsonlylightbox/-/jsonlylightbox-0.5.5.tgz"
+}
